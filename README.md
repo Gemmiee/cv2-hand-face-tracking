@@ -2,6 +2,8 @@
 
 Small computer vision scripts built with OpenCV and MediaPipe: live face detection and hand-gesture tracking over webcam.
 
+![cv2 face recognition image](cv2.webp)
+
 ## Scripts
 
 - **FaceRecognition.py** — real-time face detection using a Haar cascade classifier. Draws a bounding box per face, counts faces on screen, and supports a few keyboard controls:
